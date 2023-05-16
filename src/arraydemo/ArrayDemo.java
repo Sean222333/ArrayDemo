@@ -25,6 +25,7 @@ public class ArrayDemo {
             
         }
          */
+        //new comments
         System.out.println("Enter Word:");
         Scanner input = new Scanner(System.in);
       
