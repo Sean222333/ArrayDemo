@@ -7,7 +7,7 @@ package arraydemo;
  */
 public class Student {
     //add some comments for fetch;
-    
+    //add comments for PULL
     private String studentId;
     private String studentName;
     private String studentNum;
