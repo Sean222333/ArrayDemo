@@ -6,8 +6,12 @@ package arraydemo;
  * @author Sheng
  */
 public class Student {
+    //add some comments for fetch;
+    
     private String studentId;
     private String studentName;
+    private String studentNum;
+    
 
     public String getStudentId() {
         return studentId;
